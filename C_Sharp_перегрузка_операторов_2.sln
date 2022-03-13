@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Sharp_перегрузка_операторов_2", "C_Sharp_перегрузка_операторов_2.csproj", "{BEF85244-C703-48CE-8A0B-8C56FCE3B67D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEF85244-C703-48CE-8A0B-8C56FCE3B67D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF85244-C703-48CE-8A0B-8C56FCE3B67D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF85244-C703-48CE-8A0B-8C56FCE3B67D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF85244-C703-48CE-8A0B-8C56FCE3B67D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB1D4C45-5EF2-4C57-A598-9F65A22F4B8D}
+	EndGlobalSection
+EndGlobal
